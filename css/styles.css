@@ -18,15 +18,8 @@ body {
   background-color: #f5ba7e;
 }
 
-/* font-family: 'Fraunces', serif; */
-/* font-family: 'Montserrat', sans-serif; */
-
 .main {
   padding: 1.75rem 1rem;
-}
-
-.main::before {
-  content: attr(data-name);
 }
 
 .card {
