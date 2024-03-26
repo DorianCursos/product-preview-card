@@ -147,14 +147,3 @@ body {
     left: 63px;
   }
 }
-
-.box {
-  width: 200px;
-  height: 200px;
-  background-color: purple;
-  font-size: 2rem;
-  color: white;
-  margin-bottom: 2rem;
-  padding: 75px 50px;
-  border-radius: 2rem;
-}
